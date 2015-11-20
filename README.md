@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/evanlucas/safe-resolve.svg)](https://travis-ci.org/evanlucas/safe-resolve)
 [![Coverage Status](https://coveralls.io/repos/evanlucas/safe-resolve/badge.svg?branch=master&service=github)](https://coveralls.io/github/evanlucas/safe-resolve?branch=master)
 
-require.resolve without throwing
+`require.resolve` without throwing
 
 ## Install
 
